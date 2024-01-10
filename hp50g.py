@@ -1,4 +1,3 @@
-
 def ehIncognita(valor):
   if valor.isdigit():
     return False
